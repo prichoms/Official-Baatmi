@@ -1,0 +1,13 @@
+तीन_QFNUM विकेट_NN लेने_VNN वाले_PREP ऑफ_NNC स्पिनर_NN सक_NNPC लैन_NNPC मुश्ताक_NNP को_PREP मैन_NNC ऑफ_NNC द_NNC मैच_NN घोषित_JVB किया_VFM गया_VAUX ।_PUNC
+न्यू_NNPC जीलैंड_NNP की_PREP शुरुआत_NN अच्छी_JVB नहीं_NEG रही_VFM जब_RB उनके_PRP तीन_QFNUM बल्लेबाज_NN फ्लेमिंग_NNP ,_PUNC टुज_NNP और_CC एस्टल_NNP को_PREP टीम_NN के_PREP १८_QFNUM रन_NN के_PREP योग_NN पर_PREP ही_RP पैवेलियन_NN लौट_VFM जाना_VAUX पड़ा_VAUX ।_PUNC
+अकरम_NNP ने_PREP फ्लेमिंग_NNP को_PREP एक_QFNUM रन_NN पर_PREP और_CC एस्टल_NNP को_PREP दस_QFNUM रन_NN पर_PREP बोल्ड_JVB किया_VFM ।_PUNC
+टुज_NNP को_PREP वकार_NNPC यूनुस_NNP ने_PREP विकेट_NN के_PREP पीछे_PREP मोइन_NNPC खान_NNP के_PREP हाथों_PREP एक_QFNUM रन_NN पर_PREP लपकवाया_VFM ।_PUNC
+लेकिन_CC फिर_RB विंसेट_NNP और_PREP मैकमिलन_NNP के_PREP बीच_PREP चौथे_QFNUM विकेट_NN के_PREP लिए_PREP १००_QFNUM रनों_NN की_PREP भागीदारी_NVB हुई_VFM ।_PUNC
+विंसेट_NNP ने_PREP ६१_QFNUM गेंदों_NN में_PREP तीन_QFNUM चौकों_NN की_PREP मदद_NN से_PREP ४३_QFNUM रनों_NN की_PREP पारी_NN खेली_VFM ।_PUNC
+उन्हें_PRP सकलैन_NNP ने_PREP मोइन_NNP के_PREP हाथों_PREP स्टम्प_JVB कराया_VFM ।_PUNC
+बहुतुले_NNP ने_PREP ५१_QFNUM रनों_NN की_PREP पारी_NN खेली_VFM ।_PUNC
+आठवें_QFNUM विकेट_NN के_PREP लिए_PREP दिघे_NNP और_CC पवार_NNP ने_PREP मिलकर_VRB ६३_QFNUM रन_NN जोड़े_VFM ।_PUNC
+गिलक्रिस्ट_NNP द्वारा_PREP लपके_VFM जाने_VNN से_PREP पूर्व_PREP दिघे_NNP ने_PREP ८४_QFNUM रनों_NN की_PREP शानदार_JJ पारी_NN खेली_VFM ।_PUNC
+पवार_NNP ने_PREP मैदान_NN पर_PREP चौतरफा_JJ शॉट_NN खेले_VFM ।_PUNC
+वे_PRP दसवेें_QFNUM विकेट_NN के_PREP लिए_PREP कुलकर्णी_NNP के_PREP साथ_PREP ३२_QFNUM रनों_NN की_PREP भागीदारी_NVB कर_VFM चुके_VAUX हैं_VAUX ।_PUNC
+मैक्ग्रा_NNP की_PREP शुरुआती_JJ गेंदबाजी_NN अच्छी_JVB रही_VFM ,_PUNC लेकिन_CC फिर_RB बाद_NN में_PREP मुंबई_NNP के_PREP पुछल्ले_JJ बल्लेबाजों_NN ने_PREP ऑस्ट्रेलिया_NNP के_PREP सभी_QF गेंदबाजों_NN को_PREP खासा_JJ परेशान_JVB किया_VFM ।_PUNC
